@@ -1,0 +1,8 @@
+streamlit
+openai-whisper
+srt
+moviepy
+torch
+numpy
+setuptools-rust
+google-generativeai
